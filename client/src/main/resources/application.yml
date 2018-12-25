@@ -1,0 +1,7 @@
+dubbo:
+  application:
+    name: test
+  registry:
+    address: zookeeper://172.16.0.252:2181
+server:
+  port: 8082
